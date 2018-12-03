@@ -7,5 +7,9 @@ Por meio desses dados é possível perceber que os óbitos permanecem mais ou me
 Fontes:
 
 
-	INCA (Instituto Nacional do Câncer) Atlas On-line de Mortalidade: https://mortalidade.inca.gov.br/MortalidadeWeb/pages/Modelo03/consultar.xhtml .
-	Paulo Vasconcellos – Cientista de Dados brasileiro brasileiro: https://paulovasconcellos.com.br/15-comandos-de-matplotlib-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-17cf88a75119. 
+INCA (Instituto Nacional do Câncer) Atlas On-line de Mortalidade:
+
+https://mortalidade.inca.gov.br/MortalidadeWeb/pages/Modelo03/consultar.xhtml .
+Paulo Vasconcellos – Cientista de Dados brasileiro brasileiro:
+
+https://paulovasconcellos.com.br/15-comandos-de-matplotlib-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-17cf88a75119. 
